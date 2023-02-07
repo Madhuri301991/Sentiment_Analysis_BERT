@@ -1,5 +1,6 @@
 # Sentiment_Analysis_BERT
-Sentiment Analysis to classify reviews using BERT and HuggingFace library
+Sentiment Analysis to classify reviews 
+- Use the pretrained multilingual BERT model 'bert-base-multilingual-uncased-sentiment', this model was implemented using the Huggingface Transformers library'.
 - tranformers package is used for NLP model --> 
 - BERT multilingual BERT model that performs sentiment anlysis --> from HuggingFace
 - requests package is going to request review from the YELP site
